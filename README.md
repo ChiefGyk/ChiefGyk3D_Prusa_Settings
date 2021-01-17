@@ -37,6 +37,4 @@ I highly doubt I will do mods that take it too far from being stock.
 
 Firmware merely updates the stock branch firmware to include the G81 Firmware tweaks for the Nyloc mod, you don't need to do it, but it helps with printing, just follow the guide here. https://github.com/PrusaOwners/prusaowners/wiki/Bed_Leveling_without_Wave_Springs
 
-I have a seperate repo for the Firmware work I do https://github.com/ChiefGyk/Prusa-Firmware
-
 
