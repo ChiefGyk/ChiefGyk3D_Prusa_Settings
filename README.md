@@ -7,7 +7,7 @@ Any files I have personally created are released under GPL v2
 
 Files procured from Elsewhere:
 
-Temp Tower (Gcode rendered by me): https://www.thingiverse.com/thing:2729076 
+Temp Tower: https://www.thingiverse.com/thing:2729076 
 
 Extrusion and X Ringing Test: https://www.thingiverse.com/thing:2768897
 
